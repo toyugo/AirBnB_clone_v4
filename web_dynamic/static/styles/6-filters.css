@@ -85,8 +85,8 @@ div:hover > .popover {
     padding: 0.2em;
 }
 .filters .amenities ul {
-    padding: 2em 0 2em 3em;
+    padding: 2em 0 2em 1em;
   }
-
-
-  
+.amenities li > input {
+    margin-right: 10px;
+}
